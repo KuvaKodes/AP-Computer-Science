@@ -1,0 +1,3 @@
+Enter E for an English to Spanish Dictionary or S for Spanish to English: 
+E
+
